@@ -106,7 +106,7 @@ https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/chao921125/source/refs/heads/main/iptv/index.m3u
 
 可添加更多源
-https://example.com/live.m3u
+https://raw.githubusercontent.com/jingjingge-art/youtube/refs/heads/main/%E5%85%A8%E7%90%83%E7%9B%B4%E6%92%AD%E7%94%B5%E8%A7%86%E7%9B%91%E6%8E%A7iptvCAM-12-%E0%B8%AB%E0%B8%B2%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B9%81%E0%B8%AB%E0%B8%A7%E0%B8%99.txt
 
 
 ## ⏰ 自动更新
